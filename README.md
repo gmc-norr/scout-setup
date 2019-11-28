@@ -1,5 +1,5 @@
 # SCOUT USER EXAMPLE
-
+TEST
 ## Installation and setup for docker version
 
 Clone the latest Scout version from Github, and the docker files needed:  
